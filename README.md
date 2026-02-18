@@ -21,3 +21,4 @@
 - Spatiotemporal Fusion Transformer Models for Dynamical System Predictions
 - Time Series Research
 - Physics-informed Neural Networks
+- Agentic-driven Research
