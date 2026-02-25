@@ -22,3 +22,4 @@
 - Time Series Research
 - Physics-informed Neural Networks
 - Agentic-driven Research
+- Skyrmions
