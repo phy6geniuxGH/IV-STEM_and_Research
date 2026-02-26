@@ -23,3 +23,4 @@
 - Physics-informed Neural Networks
 - Agentic-driven Research
 - Skyrmions
+- Physics Education
