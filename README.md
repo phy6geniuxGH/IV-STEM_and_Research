@@ -24,3 +24,4 @@
 - Agentic-driven Research
 - Skyrmions
 - Physics Education
+- Terahertz Radiation
