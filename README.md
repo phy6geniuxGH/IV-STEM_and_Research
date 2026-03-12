@@ -25,4 +25,5 @@
 - Skyrmions
 - Physics Education
 - Terahertz Radiation
-- Text Analysis of Religious Texts
+- Meta-analysis of Religious Texts
+- Natural Language Processing of Spiritual Books
