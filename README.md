@@ -27,3 +27,4 @@
 - Terahertz Radiation
 - Meta-analysis of Religious Texts
 - Natural Language Processing of Spiritual Books
+- Bio-inspired Algorithms
