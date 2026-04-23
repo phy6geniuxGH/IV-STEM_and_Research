@@ -32,3 +32,4 @@
 - Cryptography
 - Autoresearch
 - Computational Optics
+- AI research
