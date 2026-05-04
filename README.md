@@ -34,3 +34,4 @@
 - Computational Optics
 - AI research
 - Multifunctional Single-Layer Metasurface
+- Neural metasurfaces
