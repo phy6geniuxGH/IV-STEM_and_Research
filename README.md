@@ -35,3 +35,6 @@
 - AI research
 - Multifunctional Single-Layer Metasurface
 - Neural metasurfaces
+- Mathematical Methods for Physicists
+- Mathematical Methods for Data Science
+- Mathematical Methods for Artificial Intelligence
