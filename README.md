@@ -38,3 +38,4 @@
 - Mathematical Methods for Physicists
 - Mathematical Methods for Data Science
 - Mathematical Methods for Artificial Intelligence
+- Mathematical Methods for Engineers
