@@ -34,6 +34,7 @@
 - Computational Optics
 - AI research
 - Multifunctional Single-Layer Metasurface
+- Medical Diagnostics
 - Neural metasurfaces
 - Mathematical Methods for Physicists
 - Mathematical Methods for Data Science
