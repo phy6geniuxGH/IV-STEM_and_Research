@@ -35,6 +35,7 @@
 - AI research
 - Multifunctional Single-Layer Metasurface
 - Medical Diagnostics
+- World Models
 - Neural metasurfaces
 - Mathematical Methods for Physicists
 - Mathematical Methods for Data Science
