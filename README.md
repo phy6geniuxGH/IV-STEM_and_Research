@@ -41,3 +41,4 @@
 - Mathematical Methods for Data Science
 - Mathematical Methods for Artificial Intelligence
 - Mathematical Methods for Engineers
+- Linear Algebra
