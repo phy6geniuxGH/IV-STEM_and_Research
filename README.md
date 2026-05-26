@@ -37,7 +37,7 @@
 - Medical Diagnostics
 - World Models
 - Neural metasurfaces
-- Multifunctional Single-Layer Metasurfaces
+- Multifunctional Polychromatic Single-Layer Metadevices
 - Mathematical Methods for Physicists
 - Mathematical Methods for Data Science
 - Mathematical Methods for Artificial Intelligence
