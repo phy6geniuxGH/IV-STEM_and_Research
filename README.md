@@ -43,3 +43,4 @@
 - Mathematical Methods for Artificial Intelligence
 - Mathematical Methods for Engineers
 - Linear Algebra
+- LSPR (Localized Surface Plasmon Resonance)
