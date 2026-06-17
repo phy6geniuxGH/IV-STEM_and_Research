@@ -45,3 +45,4 @@
 - Mathematical Methods for Engineers
 - Linear Algebra
 - LSPR (Localized Surface Plasmon Resonance)
+- Fluid Mechanics
