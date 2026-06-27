@@ -47,3 +47,4 @@
 - LSPR (Localized Surface Plasmon Resonance)
 - Fluid Mechanics
 - Randomized Pillar Metasurfaces
+- Physics-informed Neural Networks
