@@ -50,3 +50,4 @@
 - Physics-informed Neural Networks
 - Reinforcement Learning in Light Propagation
 - Black Holes and Metamaterials
+- COMSOL and Tidy3D-driven simulations
