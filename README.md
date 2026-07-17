@@ -4,6 +4,8 @@
 - Matlab
 - Jupyter Notebooks
 - Databricks
+- Snowflake
+- Kaggle
 
 # Topics
 - Finite Difference Time Domain (FDTD)
