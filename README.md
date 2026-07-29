@@ -6,6 +6,7 @@
 - Databricks
 - Snowflake
 - Kaggle
+- Google Colab
 
 # Topics
 - Finite Difference Time Domain (FDTD)
