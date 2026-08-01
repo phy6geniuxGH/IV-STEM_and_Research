@@ -54,3 +54,4 @@
 - Reinforcement Learning in Light Propagation
 - Black Holes and Metamaterials
 - COMSOL and Tidy3D-driven simulations
+- Reconfigurble Metamaterials
