@@ -56,3 +56,4 @@
 - COMSOL and Tidy3D-driven simulations
 - Reconfigurable Metamaterials
 - Plasmonic Metamaterials
+- Organic Metamaterials
